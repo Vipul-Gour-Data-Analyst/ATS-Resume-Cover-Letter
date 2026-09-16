@@ -1,0 +1,12 @@
+Allied Engineers Role Description !!
+
+In my role as a Data Analyst, I worked on 12+ client projects across India, Kuwait, and Saudi Arabia, helping teams make faster, data-backed decisions. I used Advanced Excel and Python to clean, analyze, and visualize large datasets with over 99% accuracy. A big part of my work involved analyzing operational data from 100+ sites, which helped identify high-risk areas and cut issue response times by 25%.
+
+I also focused on making daily tasks more efficient—by automating manual reporting using tools like VLOOKUP and Pivot Tables, I saved about 2 hours of work each day and improved reporting speed by 30%. Every two weeks, I delivered clear, actionable reports that helped stakeholders fix recurring equipment failures and improve reliability by 20%. I also collaborated closely with engineering teams on corrosion mitigation efforts, which led to a 15% boost in asset health and better compliance with safety standards.
+
+
+Intervie tech !!
+
+In my role as a Data Analyst, I worked with large datasets of over 50,000 records, using Excel and Python (Pandas) to clean and prepare data for analysis—boosting data accuracy by 98%. I created interactive dashboards in Power BI to help track sales performance, customer acquisition, and churn in real-time, which gave decision-makers better visibility and cut reporting time by 40%.
+
+Through exploratory data analysis (EDA), I uncovered key trends that led to more than three actionable insights, directly influencing business strategy. I also worked closely with marketing and finance teams to ensure that all insights aligned with business goals—helping improve collaboration and ensuring data-driven decisions were accurate and meaningful.

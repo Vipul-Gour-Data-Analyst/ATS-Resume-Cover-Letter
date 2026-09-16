@@ -1,0 +1,65 @@
+✅ Top Technical Skills (Use in "Key Skills" section)
+Use a mix of tools, techniques, and platform names:
+
+Advanced Excel (Pivot Tables, VLOOKUP, Macros)
+SQL (Joins, CTEs, Window Functions)
+Power BI / Tableau
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Data Cleaning & Transformation
+Data Visualization
+Dashboards & Reporting
+ETL Processes
+Statistical Analysis
+Machine Learning (Basic Concepts)
+MS Access / VBA
+Excel Automation
+Google Sheets (Functions, Automation)
+
+📊 Business & Analytical Skills
+These show your ability to convert data into insights:
+Data Interpretation
+Business Intelligence (BI)
+KPI Tracking & Monitoring
+Market & Sales Analysis
+Customer Segmentation
+Root Cause Analysis (RCA)
+Trend Analysis
+Forecasting & Predictive Analysis
+Decision Support Systems
+Problem Solving
+Data-Driven Decision Making
+
+🔧 Project & Process-Related Keywords
+Helps recruiters match project scope:
+
+Data Migration Projects
+Dashboard Development
+Automation of Reports
+Operational Data Analysis
+Retail / FMCG / Healthcare Analytics
+Client Reporting
+Ad-hoc Analysis
+Stakeholder Management
+
+Agile / Scrum / Jira Tools
+
+💼 Domain Keywords (Optional - based on experience)
+Include industries you've worked in:
+
+Retail Analytics
+Supply Chain Analytics
+Financial Data Analysis
+E-commerce Analytics
+Healthcare / Pharma
+Telecom Data Analysis
+
+✨ Soft Skills Keywords
+Recruiters look for these too:
+
+Attention to Detail
+Communication Skills
+Time Management
+Team Collaboration
+Critical Thinking
+Presentation Skills
+Client Interaction
