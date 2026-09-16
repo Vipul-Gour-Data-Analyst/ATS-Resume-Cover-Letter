@@ -125,8 +125,7 @@ Thank you for your time and consideration.
 
 Best regards,  
 **Vipul Gour**  
-📧 your.email@example.com  
-📱 +91-XXXXXXXXXX  
+📧 your.email@example.com   
 🔗 LinkedIn: [LinkedIn Profile]  
 🔗 Portfolio: [Portfolio Link]  
 🔗 GitHub: [GitHub Profile]
@@ -260,7 +259,6 @@ The goal is simple:
 **Vipul Gour**
 
 Data Analyst | SQL | Python | Power BI | Excel
-
-GitHub: [Add GitHub Profile]  
-LinkedIn: [Add LinkedIn Profile]  
-Portfolio: [Add Portfolio Link]
+ 
+LinkedIn: linkedin.com/in/vipulgour
+Portfolio: https://codebasics.io/portfolio/VIPUL-GOUR
